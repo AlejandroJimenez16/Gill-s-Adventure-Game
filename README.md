@@ -20,7 +20,7 @@ El objetivo del juego es superar varios niveles. Para ello, tendrás que consegu
 ### Objetos del Juego
 
 - **Llave**: Este objeto es crucial para avanzar. Sin ella, no podrás abrir la puerta.
-- ![Llave](https://github.com/user-attachments/assets/a066f959-f9ce-45e5-a12d-a3b9517f62e8)
+                                                                                        ![Llave](https://github.com/user-attachments/assets/a066f959-f9ce-45e5-a12d-a3b9517f62e8)
   
   
 - **Puerta**: Si logras abrirla, podrás pasar al siguiente nivel. ![puerta](https://github.com/user-attachments/assets/a2a197f3-c16a-4e34-963c-7672e3720f58)
