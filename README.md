@@ -15,7 +15,7 @@ El objetivo del juego es superar varios niveles. Para ello, tendrás que consegu
     - **Saltar**: Espacio
     - **Correr**: Pulsando la tecla R
 
-    ![Gillion](https://github.com/user-attachments/assets/04f0a9b2-0697-4f53-8058-3f8efe22e4dc) ![Gillion2](https://github.com/user-attachments/assets/9dbd381d-92d3-456e-9e16-e2d4e6301e08) ![Gillion3] (https://github.com/user-attachments/assets/f7a0d906-26de-461f-88ea-afe67e3b34e6)
+    ![Gillion](https://github.com/user-attachments/assets/04f0a9b2-0697-4f53-8058-3f8efe22e4dc) ![Gillion2](https://github.com/user-attachments/assets/9dbd381d-92d3-456e-9e16-e2d4e6301e08) ![Gillion3](https://github.com/user-attachments/assets/f7a0d906-26de-461f-88ea-afe67e3b34e6)
 
 ### Objetos del Juego
 - **Llave**: Este objeto es crucial para avanzar. Sin ella, no podrás abrir la puerta.
