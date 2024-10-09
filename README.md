@@ -18,8 +18,9 @@ El objetivo del juego es superar varios niveles. Para ello, tendrás que consegu
     ![Gillion](https://github.com/user-attachments/assets/04f0a9b2-0697-4f53-8058-3f8efe22e4dc) ![Gillion2](https://github.com/user-attachments/assets/9dbd381d-92d3-456e-9e16-e2d4e6301e08) ![Gillion3](https://github.com/user-attachments/assets/f7a0d906-26de-461f-88ea-afe67e3b34e6)
 
 ### Objetos del Juego
-- **Llave**: Este objeto es crucial para avanzar. Sin ella, no podrás abrir la puerta.
-- **Puerta**: Si logras abrirla, podrás pasar al siguiente nivel.
+
+- **Llave**: Este objeto es crucial para avanzar. Sin ella, no podrás abrir la puerta. ![Llave](https://github.com/user-attachments/assets/a066f959-f9ce-45e5-a12d-a3b9517f62e8)
+- **Puerta**: Si logras abrirla, podrás pasar al siguiente nivel. ![puerta](https://github.com/user-attachments/assets/a2a197f3-c16a-4e34-963c-7672e3720f58)
 - **Plataforma de Salto**: Útil para alcanzar lugares altos que normalmente no podrías llegar.
 - **Mapa**: Usado para crear los niveles.
 - **Fondos**: Imágenes utilizadas en el juego para crear el ambiente.
